@@ -7,6 +7,7 @@ This project is a machine learning-based tool for predicting stock price movemen
 - Predicts stock price movement (gain or loss) using machine learning models.
 - Supports multiple stock selections from **yfinance**.
 - Implements models like Linear Regression, Decision Trees, Random Forests, XGBoost, and LSTM.
+- After comparing several machine learning models, LSTM was selected for calculations.
 - Provides an interactive interface using Streamlit.
 - Offers empirical analysis of model performance.
 
